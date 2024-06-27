@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\bin\Debug\net8.0\ValidTriangle.exe
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\bin\Debug\net8.0\ValidTriangle.deps.json
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\bin\Debug\net8.0\ValidTriangle.runtimeconfig.json
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\bin\Debug\net8.0\ValidTriangle.dll
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\bin\Debug\net8.0\ValidTriangle.pdb
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ValidTriangle.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ValidTriangle.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ValidTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ValidTriangle.dll
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\refint\ValidTriangle.dll
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ValidTriangle.pdb
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ValidTriangle.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\ValidTriangle\ValidTriangle\obj\Debug\net8.0\ref\ValidTriangle.dll
